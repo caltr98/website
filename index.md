@@ -36,10 +36,10 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
 
 ## **Projects**  
 - **CAVS (Credibility Assessment and Verification System)**  
-  A system designed to mitigate **fake news** in Online Social Networks using **Self-Sovereign Identity (SSI)** principles, particularly **Verifiable Credentials**.  
+  A system designed to mitigate **fake news** in Online Social Networks using **Self-Sovereign Identity (SSI)**, particularly **Verifiable Credentials**.  
   - Implements **Veramo** as the SSI framework.  
-  - Utilizes **KeyBERT** and **Nesta Skill Extractor** for processing articles and statements.  
-  - Aims to enhance trust and credibility in digital content dissemination.  
+  - Utilizes **KeyBERT** and **Nesta Skill Extractor** for processing articles and statements and matching them to Verifiable Credentials.  
+  - Aims to enhance trust and credibility in social content.  
   - **GitHub**: [caltr98/CAVS](https://github.com/caltr98/CAVS)  
 
 ## Contact  
