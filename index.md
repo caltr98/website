@@ -34,7 +34,7 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
   [Read more](https://dl.acm.org/doi/abs/10.1145/3581971.3581992)  
 
 
-### **Projects**  
+## **Projects**  
 - **CAVS (Credibility Assessment and Verification System)**  
   A system designed to mitigate **fake news** in Online Social Networks using **Self-Sovereign Identity (SSI)** principles, particularly **Verifiable Credentials**.  
   - Implements **Veramo** as the SSI framework.  
