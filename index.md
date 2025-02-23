@@ -33,6 +33,15 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
   Published in *ICBTA '22: Proceedings of the 2022 5th International Conference on Blockchain Technology and Applications*.  
   [Read more](https://dl.acm.org/doi/abs/10.1145/3581971.3581992)  
 
+
+### **Projects**  
+- **CAVS (Credibility Assessment and Verification System)**  
+  A system designed to mitigate **fake news** in Online Social Networks using **Self-Sovereign Identity (SSI)** principles, particularly **Verifiable Credentials**.  
+  - Implements **Veramo** as the SSI framework.  
+  - Utilizes **KeyBERT** and **Nesta Skill Extractor** for processing articles and statements.  
+  - Aims to enhance trust and credibility in digital content dissemination.  
+  - **GitHub**: [caltr98/CAVS](https://github.com/caltr98/CAVS)  
+
 ## Contact  
 - **Location**: Pisa, Italy - Department of Computer Science, Room 299
 - **Email**: [calogero.turco@phd.unipi.it](mailto:calogero.turco@phd.unipi.it)
@@ -41,6 +50,14 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
 ## Languages  
 - **English**: C1  
 - **Italian**: Native  
+
+# Teaching 
+- **Laboratory Assistant** – Fondamenti di Programmazione (Foundations of Programming), Bachelor’s Degree in Mathematics, University of Pisa (2024).
+    Assisted students with in-class exercises on C programming.
+
+
+
+
 
 {% include_relative _includes/publications.md %}
 
