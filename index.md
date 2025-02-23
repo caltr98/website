@@ -39,7 +39,7 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
   A system designed to mitigate **fake news** in Online Social Networks using **Self-Sovereign Identity (SSI)**, particularly **Verifiable Credentials**.  
   - Implements **Veramo** as the SSI framework.  
   - Utilizes **KeyBERT** and **Nesta Skill Extractor** for processing articles and statements and matching them to Verifiable Credentials.  
-  - Aims to enhance trust and credibility in social content.  
+  - Aims to enhance trust and credibility in social content shared on Online Social Networks.  
   - **GitHub**: [caltr98/CAVS](https://github.com/caltr98/CAVS)  
 
 ## Contact  
